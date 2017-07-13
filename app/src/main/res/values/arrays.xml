@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meat_labels">
+        <item>meat</item>
+        <item>beef</item>
+        <item>pork</item>
+        <item>chicken</item>
+        <item>steak</item>
+    </string-array>
+</resources>
